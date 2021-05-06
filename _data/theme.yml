@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: /objects/Welland_Canal_LAC.jpg
+featured-image: https://exhibits.library.brocku.ca/files/original/d66b36b19c43d004c70a2c4f7b23d3afaccf2426.jpg
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: # Default is 8em
 # optional: change position of background image, center, top, bottom
