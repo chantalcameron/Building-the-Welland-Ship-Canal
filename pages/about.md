@@ -14,12 +14,8 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPEG images or PDF documents
-
-The base site features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+The Welland Canal Lantern Slide collection contains images and plans of the construction of the fourth Welland Canal, also known as the Welland Ship Canal.
+Construction on the canal began in 1913 but progress was delayed due to a shortage of workers and material during the first World War.  Work was temporarily halted but resumed in 1919 under the supervision of Alexander J. Grant, Chief Engineer.  The new canal needed to be large enough to accommodate the Great Lakes steamers of the time.  The route largely remained the same from Port Colborne to Thorold.  From here, the canal followed Ten Mile Creek Valley and joined Lake Ontario at Port Weller,  just east of Port Dalhousie.  It was necessary to construct a harbour at Port Weller as a natural one did not exist.  The canal has seven lift locks and one guard lock.  It was opened in 1932 and remains in operation.
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include feature/abouttheabout.md %} 
